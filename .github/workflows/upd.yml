@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: "*/5 * * * *"  # 每天执行一次，可以根据需要修改执行时间
+  workflow_dispatch:
 
 permissions:
   contents: write  # 允许该动作推送修改到仓库
