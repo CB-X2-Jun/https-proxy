@@ -29,7 +29,8 @@ jobs:
 
     - name: Filter and format proxies
       run: |
-        jq '[.[] | select(.protocol == "https") | {host: (.ip + ":" + (.port|tostring)), country: .country, quality: 4}]' proxies.json > pxy.json
+        jq '{proxy_list: [.[] | select(.protocol == "https") | {host: (.ip + ":" + (.port|tostring)), country: .country, quality: 4} ]}' proxies.json > pxy.json
+
 
     - name: Commit and push updated proxy list
       run: |
