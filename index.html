@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTTPS Proxy API</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #fff; line-height: 1.6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        h1 { font-size: 2.5rem; margin-bottom: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .desc { color: #888; margin-bottom: 2rem; }
+        .api-section { background: #111; border: 1px solid #333; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
+        .endpoint { font-family: 'Courier New', monospace; background: #222; padding: 0.5rem 1rem; border-radius: 4px; margin-bottom: 1rem; color: #4ade80; }
+        .params { margin-bottom: 1rem; }
+        .param { color: #60a5fa; }
+        .example { background: #1a1a1a; padding: 1rem; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 0.9rem; }
+        .try-btn { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; margin-top: 1rem; }
+        .result { margin-top: 1rem; background: #1a1a1a; padding: 1rem; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 0.8rem; max-height: 200px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>HTTPS Proxy API</h1>
+        <p class="desc">简单、快速的HTTPS代理服务器列表API</p>
+
+        <div class="api-section">
+            <h3>🌍 获取国家列表</h3>
+            <div class="endpoint">GET /api/countries</div>
+            <button class="try-btn" onclick="tryAPI('countries')">试一试</button>
+            <div id="countries-result" class="result" style="display:none;"></div>
+        </div>
+
+        <div class="api-section">
+            <h3>🔗 获取代理列表</h3>
+            <div class="endpoint">GET /api/proxies</div>
+            <div class="params">
+                <span class="param">?country=US</span> - 按国家筛选<br>
+                <span class="param">?limit=5</span> - 限制数量<br>
+                <span class="param">?random=true</span> - 随机排序
+            </div>
+            <div class="example">
+                /api/proxies?country=US&limit=3&random=true
+            </div>
+            <button class="try-btn" onclick="tryAPI('proxies')">试一试</button>
+            <div id="proxies-result" class="result" style="display:none;"></div>
+        </div>
+    </div>
+
+    <script>
+        async function tryAPI(type) {
+            const resultDiv = document.getElementById(`${type}-result`);
+            resultDiv.style.display = 'block';
+            resultDiv.textContent = '加载中...';
+            
+            try {
+                const url = type === 'countries' ? '/api/countries' : '/api/proxies?limit=5&random=true';
+                const response = await fetch(url);
+                const data = await response.json();
+                resultDiv.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                resultDiv.textContent = '错误: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,12 +1,12 @@
 [build]
-  functions = "api"
+  functions = "functions"
   publish = "."
 
 [build.environment]
   NODE_VERSION = "18"
 
 [[headers]]
-  for = "/api/*"
+  for = "/.netlify/functions/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Headers = "Content-Type"
