@@ -8,7 +8,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #fff; line-height: 1.6; }
         .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
-        h1 { font-size: 2.5rem; margin-bottom: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h1 { font-size: 2.5rem; margin-bottom: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; }
         .desc { color: #888; margin-bottom: 2rem; }
         .api-section { background: #111; border: 1px solid #333; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
         .endpoint { font-family: 'Courier New', monospace; background: #222; padding: 0.5rem 1rem; border-radius: 4px; margin-bottom: 1rem; color: #4ade80; }
@@ -45,6 +45,14 @@
             <button class="try-btn" onclick="tryAPI('proxies')">试一试</button>
             <div id="proxies-result" class="result" style="display:none;"></div>
         </div>
+
+        <div class="api-section">
+            <h3>🎯 测试美国代理</h3>
+            <div class="endpoint">GET /api/proxies?country=US&limit=3&random=true</div>
+            <p style="color: #888; margin-bottom: 1rem;">获取3个随机美国代理</p>
+            <button class="try-btn" onclick="tryAPI('us-proxies')">测试美国代理</button>
+            <div id="us-proxies-result" class="result" style="display:none;"></div>
+        </div>
     </div>
 
     <script>
@@ -54,7 +62,15 @@
             resultDiv.textContent = '加载中...';
             
             try {
-                const url = type === 'countries' ? '/api/countries' : '/api/proxies?limit=5&random=true';
+                let url;
+                if (type === 'countries') {
+                    url = '/api/countries';
+                } else if (type === 'us-proxies') {
+                    url = '/api/proxies?country=US&limit=3&random=true';
+                } else {
+                    url = '/api/proxies?limit=5&random=true';
+                }
+                
                 const response = await fetch(url);
                 const data = await response.json();
                 resultDiv.textContent = JSON.stringify(data, null, 2);

@@ -49,19 +49,24 @@ export const handler = async (event: any, context: any) => {
 
     // 获取查询参数
     const { country, limit, random } = event.queryStringParameters || {};
+    
+    console.log('Query parameters:', { country, limit, random });
 
     let filteredProxies = proxyData.proxy_list;
+    console.log('Total proxies before filtering:', filteredProxies.length);
 
     // 按国家过滤
     if (country) {
       filteredProxies = filteredProxies.filter((proxy: any) => 
         proxy.country.toLowerCase() === country.toLowerCase()
       );
+      console.log('Proxies after country filter:', filteredProxies.length);
     }
 
     // 随机排序
     if (random === 'true') {
       filteredProxies = filteredProxies.sort(() => Math.random() - 0.5);
+      console.log('Applied random sorting');
     }
 
     // 限制数量
@@ -69,6 +74,7 @@ export const handler = async (event: any, context: any) => {
       const limitNum = parseInt(limit);
       if (!isNaN(limitNum) && limitNum > 0) {
         filteredProxies = filteredProxies.slice(0, limitNum);
+        console.log('Proxies after limit filter:', filteredProxies.length);
       }
     }
 
