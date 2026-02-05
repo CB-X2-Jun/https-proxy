@@ -1,0 +1,24 @@
+[build]
+  functions = "api"
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Headers = "Content-Type"
+    Access-Control-Allow-Methods = "GET, OPTIONS"
+    Content-Type = "application/json"
+
+[[redirects]]
+  from = "/api/proxies"
+  to = "/.netlify/functions/proxies"
+  status = 200
+
+[[redirects]]
+  from = "/api/countries"
+  to = "/.netlify/functions/countries"
+  status = 200
