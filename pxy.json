@@ -6,6 +6,11 @@
       "quality": 4
     },
     {
+      "host": "41.223.119.156:3128",
+      "country": "ZM",
+      "quality": 4
+    },
+    {
       "host": "52.188.28.218:3128",
       "country": "US",
       "quality": 4
@@ -21,18 +26,8 @@
       "quality": 4
     },
     {
-      "host": "200.174.198.32:8888",
-      "country": "BR",
-      "quality": 4
-    },
-    {
       "host": "61.76.95.217:40088",
       "country": "KR",
-      "quality": 4
-    },
-    {
-      "host": "34.96.238.40:8080",
-      "country": "HK",
       "quality": 4
     },
     {
@@ -46,18 +41,8 @@
       "quality": 4
     },
     {
-      "host": "38.156.14.34:999",
-      "country": "DO",
-      "quality": 4
-    },
-    {
-      "host": "111.79.111.126:3128",
+      "host": "220.197.44.36:3128",
       "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "38.194.246.34:999",
-      "country": "MX",
       "quality": 4
     },
     {
@@ -71,27 +56,22 @@
       "quality": 4
     },
     {
-      "host": "190.60.56.226:999",
-      "country": "CO",
-      "quality": 4
-    },
-    {
       "host": "20.210.113.32:8123",
       "country": "JP",
       "quality": 4
     },
     {
-      "host": "177.234.217.82:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "209.126.10.139:3128",
+      "host": "165.227.5.10:8888",
       "country": "US",
       "quality": 4
     },
     {
-      "host": "35.225.22.61:80",
+      "host": "188.130.160.209:80",
+      "country": "KZ",
+      "quality": 4
+    },
+    {
+      "host": "209.126.10.139:3128",
       "country": "US",
       "quality": 4
     },
@@ -111,28 +91,28 @@
       "quality": 4
     },
     {
+      "host": "152.42.170.187:9090",
+      "country": "SG",
+      "quality": 4
+    },
+    {
       "host": "101.43.255.96:80",
       "country": "CN",
       "quality": 4
     },
     {
-      "host": "146.190.80.158:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "190.12.150.244:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "173.212.246.157:3128",
-      "country": "FR",
+      "host": "45.22.209.157:8888",
+      "country": "US",
       "quality": 4
     },
     {
       "host": "109.73.195.10:8888",
       "country": "RU",
+      "quality": 4
+    },
+    {
+      "host": "38.211.76.201:999",
+      "country": "CO",
       "quality": 4
     },
     {
@@ -151,8 +131,8 @@
       "quality": 4
     },
     {
-      "host": "94.177.131.12:3128",
-      "country": "JP",
+      "host": "18.192.100.176:9098",
+      "country": "US",
       "quality": 4
     },
     {
@@ -166,18 +146,8 @@
       "quality": 4
     },
     {
-      "host": "160.250.4.245:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.4.13:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.5.22:1",
-      "country": "VN",
+      "host": "185.241.5.57:3128",
+      "country": "IL",
       "quality": 4
     },
     {
@@ -201,7 +171,27 @@
       "quality": 4
     },
     {
+      "host": "147.45.60.34:1082",
+      "country": "EE",
+      "quality": 4
+    },
+    {
+      "host": "72.56.59.23:61937",
+      "country": "GE",
+      "quality": 4
+    },
+    {
       "host": "72.56.59.56:63127",
+      "country": "GE",
+      "quality": 4
+    },
+    {
+      "host": "104.238.30.37:59741",
+      "country": "GE",
+      "quality": 4
+    },
+    {
+      "host": "72.56.59.17:61931",
       "country": "GE",
       "quality": 4
     },
@@ -241,12 +231,12 @@
       "quality": 4
     },
     {
-      "host": "104.238.30.40:59741",
+      "host": "104.238.30.45:59741",
       "country": "GE",
       "quality": 4
     },
     {
-      "host": "104.238.30.45:59741",
+      "host": "104.238.30.68:63744",
       "country": "GE",
       "quality": 4
     },
@@ -258,11 +248,6 @@
     {
       "host": "104.238.30.58:63744",
       "country": "GE",
-      "quality": 4
-    },
-    {
-      "host": "91.238.105.64:2024",
-      "country": "UA",
       "quality": 4
     },
     {
