@@ -1,11 +1,6 @@
 {
   "proxy_list": [
     {
-      "host": "195.123.209.48:3128",
-      "country": "LV",
-      "quality": 4
-    },
-    {
       "host": "41.223.119.156:3128",
       "country": "ZM",
       "quality": 4
@@ -31,11 +26,6 @@
       "quality": 4
     },
     {
-      "host": "210.223.44.230:3128",
-      "country": "KR",
-      "quality": 4
-    },
-    {
       "host": "120.92.212.16:8890",
       "country": "CN",
       "quality": 4
@@ -51,8 +41,8 @@
       "quality": 4
     },
     {
-      "host": "103.35.188.243:3128",
-      "country": "US",
+      "host": "220.197.44.36:3128",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -66,12 +56,12 @@
       "quality": 4
     },
     {
-      "host": "209.126.10.139:3128",
-      "country": "US",
+      "host": "177.234.217.82:999",
+      "country": "EC",
       "quality": 4
     },
     {
-      "host": "35.225.22.61:80",
+      "host": "209.126.10.139:3128",
       "country": "US",
       "quality": 4
     },
@@ -96,33 +86,13 @@
       "quality": 4
     },
     {
-      "host": "128.199.254.13:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
       "host": "45.22.209.157:8888",
       "country": "US",
       "quality": 4
     },
     {
-      "host": "190.12.150.244:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "201.150.116.3:999",
-      "country": "MX",
-      "quality": 4
-    },
-    {
       "host": "109.73.195.10:8888",
       "country": "RU",
-      "quality": 4
-    },
-    {
-      "host": "38.211.76.201:999",
-      "country": "CO",
       "quality": 4
     },
     {
@@ -141,38 +111,8 @@
       "quality": 4
     },
     {
-      "host": "18.179.12.21:9160",
-      "country": "NL",
-      "quality": 4
-    },
-    {
-      "host": "18.192.100.176:9098",
-      "country": "US",
-      "quality": 4
-    },
-    {
       "host": "181.78.202.28:8080",
       "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "160.250.4.245:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.4.13:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.5.22:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "185.241.5.57:3128",
-      "country": "IL",
       "quality": 4
     },
     {
@@ -183,6 +123,16 @@
     {
       "host": "205.209.118.30:3138",
       "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "103.139.138.194:3128",
+      "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "147.45.60.34:1082",
+      "country": "EE",
       "quality": 4
     },
     {
