@@ -11,8 +11,8 @@
       "quality": 4
     },
     {
-      "host": "150.107.140.238:3128",
-      "country": "ID",
+      "host": "119.93.169.230:8087",
+      "country": "PH",
       "quality": 4
     },
     {
@@ -31,6 +31,11 @@
       "quality": 4
     },
     {
+      "host": "38.190.100.168:999",
+      "country": "PE",
+      "quality": 4
+    },
+    {
       "host": "220.197.44.36:3128",
       "country": "CN",
       "quality": 4
@@ -46,13 +51,8 @@
       "quality": 4
     },
     {
-      "host": "165.227.5.10:8888",
+      "host": "35.225.22.61:80",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
       "quality": 4
     },
     {
@@ -61,18 +61,33 @@
       "quality": 4
     },
     {
-      "host": "146.190.80.158:9090",
-      "country": "SG",
+      "host": "45.22.209.157:8888",
+      "country": "US",
       "quality": 4
     },
     {
-      "host": "221.202.27.194:10811",
-      "country": "CN",
+      "host": "45.88.0.99:3128",
+      "country": "ES",
       "quality": 4
     },
     {
-      "host": "190.12.150.244:999",
-      "country": "EC",
+      "host": "45.88.0.111:3128",
+      "country": "ES",
+      "quality": 4
+    },
+    {
+      "host": "45.88.0.113:3128",
+      "country": "ES",
+      "quality": 4
+    },
+    {
+      "host": "45.88.0.114:3128",
+      "country": "ES",
+      "quality": 4
+    },
+    {
+      "host": "45.88.0.115:3128",
+      "country": "ES",
       "quality": 4
     },
     {
@@ -88,6 +103,11 @@
     {
       "host": "106.14.203.63:3333",
       "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "18.192.100.176:9098",
+      "country": "US",
       "quality": 4
     },
     {
@@ -111,13 +131,13 @@
       "quality": 4
     },
     {
-      "host": "94.176.3.43:7443",
-      "country": "NL",
+      "host": "185.241.5.57:3128",
+      "country": "IL",
       "quality": 4
     },
     {
-      "host": "59.46.216.131:30001",
-      "country": "CN",
+      "host": "205.209.118.30:3138",
+      "country": "US",
       "quality": 4
     },
     {
