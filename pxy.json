@@ -1,11 +1,6 @@
 {
   "proxy_list": [
     {
-      "host": "128.199.120.45:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
       "host": "185.191.236.162:3128",
       "country": "CH",
       "quality": 4
@@ -18,11 +13,6 @@
     {
       "host": "150.107.140.238:3128",
       "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "111.79.111.126:3128",
-      "country": "CN",
       "quality": 4
     },
     {
@@ -41,11 +31,6 @@
       "quality": 4
     },
     {
-      "host": "190.60.56.226:999",
-      "country": "CO",
-      "quality": 4
-    },
-    {
       "host": "20.210.113.32:8123",
       "country": "JP",
       "quality": 4
@@ -56,13 +41,8 @@
       "quality": 4
     },
     {
-      "host": "35.225.22.61:80",
-      "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "102.164.252.150:8080",
-      "country": "GQ",
+      "host": "158.160.215.167:8123",
+      "country": "RU",
       "quality": 4
     },
     {
@@ -76,23 +56,18 @@
       "quality": 4
     },
     {
-      "host": "128.199.254.13:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
       "host": "190.12.150.244:999",
       "country": "EC",
       "quality": 4
     },
     {
-      "host": "81.70.169.194:80",
-      "country": "CN",
+      "host": "173.212.246.157:3128",
+      "country": "FR",
       "quality": 4
     },
     {
-      "host": "103.193.144.41:8080",
-      "country": "ID",
+      "host": "81.70.169.194:80",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -116,18 +91,23 @@
       "quality": 4
     },
     {
+      "host": "185.241.5.57:3128",
+      "country": "IL",
+      "quality": 4
+    },
+    {
       "host": "205.209.118.30:3138",
       "country": "US",
       "quality": 4
     },
     {
-      "host": "147.45.60.34:1082",
-      "country": "EE",
+      "host": "59.46.216.131:30001",
+      "country": "CN",
       "quality": 4
     },
     {
-      "host": "103.155.246.42:8080",
-      "country": "ID",
+      "host": "45.186.6.104:3128",
+      "country": "EC",
       "quality": 4
     }
   ]
