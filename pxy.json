@@ -1,8 +1,8 @@
 {
   "proxy_list": [
     {
-      "host": "128.199.120.45:9090",
-      "country": "SG",
+      "host": "195.123.209.48:3128",
+      "country": "LV",
       "quality": 4
     },
     {
@@ -21,6 +21,11 @@
       "quality": 4
     },
     {
+      "host": "34.96.238.40:8080",
+      "country": "HK",
+      "quality": 4
+    },
+    {
       "host": "150.107.140.238:3128",
       "country": "ID",
       "quality": 4
@@ -31,13 +36,18 @@
       "quality": 4
     },
     {
+      "host": "111.79.111.126:3128",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "38.194.246.34:999",
       "country": "MX",
       "quality": 4
     },
     {
-      "host": "38.190.100.168:999",
-      "country": "PE",
+      "host": "103.247.22.151:7777",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -46,8 +56,8 @@
       "quality": 4
     },
     {
-      "host": "190.60.56.226:999",
-      "country": "CO",
+      "host": "195.158.8.123:3128",
+      "country": "UZ",
       "quality": 4
     },
     {
@@ -56,17 +66,7 @@
       "quality": 4
     },
     {
-      "host": "177.234.217.82:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
       "host": "165.227.5.10:8888",
-      "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "35.225.22.61:80",
       "country": "US",
       "quality": 4
     },
@@ -76,13 +76,23 @@
       "quality": 4
     },
     {
-      "host": "45.22.209.157:8888",
-      "country": "US",
+      "host": "128.199.254.13:9090",
+      "country": "SG",
       "quality": 4
     },
     {
       "host": "190.12.150.244:999",
       "country": "EC",
+      "quality": 4
+    },
+    {
+      "host": "201.150.116.3:999",
+      "country": "MX",
+      "quality": 4
+    },
+    {
+      "host": "173.212.246.157:3128",
+      "country": "FR",
       "quality": 4
     },
     {
@@ -108,11 +118,6 @@
     {
       "host": "205.209.118.30:3138",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "103.139.138.194:3128",
-      "country": "ID",
       "quality": 4
     },
     {
