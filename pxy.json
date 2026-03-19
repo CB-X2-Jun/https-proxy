@@ -1,6 +1,11 @@
 {
   "proxy_list": [
     {
+      "host": "128.199.120.45:9090",
+      "country": "SG",
+      "quality": 4
+    },
+    {
       "host": "120.92.212.16:7890",
       "country": "CN",
       "quality": 4
@@ -16,8 +21,18 @@
       "quality": 4
     },
     {
+      "host": "61.76.95.217:40088",
+      "country": "KR",
+      "quality": 4
+    },
+    {
       "host": "150.107.140.238:3128",
       "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "119.93.169.230:8087",
+      "country": "PH",
       "quality": 4
     },
     {
@@ -26,13 +41,8 @@
       "quality": 4
     },
     {
-      "host": "111.79.111.126:3128",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "220.197.44.36:3128",
-      "country": "CN",
+      "host": "38.194.246.34:999",
+      "country": "MX",
       "quality": 4
     },
     {
@@ -46,18 +56,13 @@
       "quality": 4
     },
     {
-      "host": "35.225.22.61:80",
+      "host": "165.227.5.10:8888",
       "country": "US",
       "quality": 4
     },
     {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
-      "quality": 4
-    },
-    {
-      "host": "45.22.209.157:8888",
-      "country": "US",
+      "host": "102.164.252.150:8080",
+      "country": "GQ",
       "quality": 4
     },
     {
@@ -66,38 +71,8 @@
       "quality": 4
     },
     {
-      "host": "45.88.0.99:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.111:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.113:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.114:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.115:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.116:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.117:3128",
-      "country": "ES",
+      "host": "201.150.116.3:999",
+      "country": "MX",
       "quality": 4
     },
     {
@@ -116,16 +91,6 @@
       "quality": 4
     },
     {
-      "host": "160.250.4.245:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.4.13:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
       "host": "160.250.5.22:1",
       "country": "VN",
       "quality": 4
@@ -136,6 +101,11 @@
       "quality": 4
     },
     {
+      "host": "59.46.216.131:30001",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "137.220.150.22:6005",
       "country": "SG",
       "quality": 4
@@ -143,11 +113,6 @@
     {
       "host": "45.186.6.104:3128",
       "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "113.176.92.71:3128",
-      "country": "VN",
       "quality": 4
     }
   ]
