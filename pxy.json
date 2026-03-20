@@ -6,13 +6,18 @@
       "quality": 4
     },
     {
+      "host": "185.191.236.162:3128",
+      "country": "CH",
+      "quality": 4
+    },
+    {
       "host": "200.174.198.32:8888",
       "country": "BR",
       "quality": 4
     },
     {
-      "host": "61.76.95.217:40088",
-      "country": "KR",
+      "host": "34.96.238.40:8080",
+      "country": "HK",
       "quality": 4
     },
     {
@@ -61,63 +66,8 @@
       "quality": 4
     },
     {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
-      "quality": 4
-    },
-    {
-      "host": "102.164.252.150:8080",
-      "country": "GQ",
-      "quality": 4
-    },
-    {
-      "host": "65.108.203.37:28080",
-      "country": "SE",
-      "quality": 4
-    },
-    {
       "host": "45.22.209.157:8888",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "190.12.150.244:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.99:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.111:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.113:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.114:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.115:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.116:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.117:3128",
-      "country": "ES",
       "quality": 4
     },
     {
@@ -133,26 +83,6 @@
     {
       "host": "160.250.4.245:1",
       "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.5.22:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "103.139.138.194:3128",
-      "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "59.46.216.131:30001",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "147.45.60.34:1082",
-      "country": "EE",
       "quality": 4
     },
     {
