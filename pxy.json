@@ -21,11 +21,6 @@
       "quality": 4
     },
     {
-      "host": "20.27.14.220:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "150.107.140.238:3128",
       "country": "ID",
       "quality": 4
@@ -36,18 +31,18 @@
       "quality": 4
     },
     {
-      "host": "38.194.246.34:999",
-      "country": "MX",
+      "host": "38.156.14.34:999",
+      "country": "DO",
+      "quality": 4
+    },
+    {
+      "host": "111.79.111.126:3128",
+      "country": "CN",
       "quality": 4
     },
     {
       "host": "195.158.8.123:3128",
       "country": "UZ",
-      "quality": 4
-    },
-    {
-      "host": "190.60.56.226:999",
-      "country": "CO",
       "quality": 4
     },
     {
@@ -76,23 +71,38 @@
       "quality": 4
     },
     {
-      "host": "221.202.27.194:10811",
-      "country": "CN",
-      "quality": 4
-    },
-    {
       "host": "190.12.150.244:999",
       "country": "EC",
       "quality": 4
     },
     {
-      "host": "106.14.203.63:3333",
-      "country": "CN",
+      "host": "201.150.116.3:999",
+      "country": "MX",
       "quality": 4
     },
     {
-      "host": "20.78.118.91:8561",
-      "country": "JP",
+      "host": "202.5.33.33:1101",
+      "country": "BD",
+      "quality": 4
+    },
+    {
+      "host": "103.193.144.41:8080",
+      "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "160.250.4.245:1",
+      "country": "VN",
+      "quality": 4
+    },
+    {
+      "host": "160.250.4.13:1",
+      "country": "VN",
+      "quality": 4
+    },
+    {
+      "host": "160.250.5.22:1",
+      "country": "VN",
       "quality": 4
     },
     {
@@ -106,13 +116,18 @@
       "quality": 4
     },
     {
-      "host": "147.45.60.34:1082",
-      "country": "EE",
+      "host": "91.238.105.64:2024",
+      "country": "UA",
       "quality": 4
     },
     {
-      "host": "91.238.105.64:2024",
-      "country": "UA",
+      "host": "137.220.150.22:6005",
+      "country": "SG",
+      "quality": 4
+    },
+    {
+      "host": "45.186.6.104:3128",
+      "country": "EC",
       "quality": 4
     },
     {
