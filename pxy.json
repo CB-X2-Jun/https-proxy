@@ -1,3 +1,134 @@
 {
-  "proxy_list": []
+  "proxy_list": [
+    {
+      "host": "160.242.47.197:444",
+      "country": "NA",
+      "quality": 4
+    },
+    {
+      "host": "158.173.154.47:9002",
+      "country": "DE",
+      "quality": 4
+    },
+    {
+      "host": "51.68.192.76:14443",
+      "country": "FR",
+      "quality": 4
+    },
+    {
+      "host": "144.22.145.252:80",
+      "country": "BR",
+      "quality": 4
+    },
+    {
+      "host": "211.34.105.110:4443",
+      "country": "KR",
+      "quality": 4
+    },
+    {
+      "host": "160.242.47.197:443",
+      "country": "NA",
+      "quality": 4
+    },
+    {
+      "host": "158.195.68.53:443",
+      "country": "SK",
+      "quality": 4
+    },
+    {
+      "host": "82.196.220.217:443",
+      "country": "NO",
+      "quality": 4
+    },
+    {
+      "host": "84.17.57.113:443",
+      "country": "HK",
+      "quality": 4
+    },
+    {
+      "host": "42.96.56.83:443",
+      "country": "VN",
+      "quality": 4
+    },
+    {
+      "host": "210.48.154.99:443",
+      "country": "MY",
+      "quality": 4
+    },
+    {
+      "host": "20.78.213.56:443",
+      "country": "JP",
+      "quality": 4
+    },
+    {
+      "host": "91.227.97.113:443",
+      "country": "CZ",
+      "quality": 4
+    },
+    {
+      "host": "95.217.233.255:443",
+      "country": "FI",
+      "quality": 4
+    },
+    {
+      "host": "206.188.205.103:8447",
+      "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "66.70.143.16:443",
+      "country": "BR",
+      "quality": 4
+    },
+    {
+      "host": "178.115.238.253:443",
+      "country": "AT",
+      "quality": 4
+    },
+    {
+      "host": "79.133.217.233:443",
+      "country": "PL",
+      "quality": 4
+    },
+    {
+      "host": "152.71.251.13:443",
+      "country": "GB",
+      "quality": 4
+    },
+    {
+      "host": "181.126.49.38:443",
+      "country": "PY",
+      "quality": 4
+    },
+    {
+      "host": "165.231.141.138:9443",
+      "country": "EE",
+      "quality": 4
+    },
+    {
+      "host": "88.135.143.159:443",
+      "country": "LV",
+      "quality": 4
+    },
+    {
+      "host": "31.31.78.117:443",
+      "country": "CZ",
+      "quality": 4
+    },
+    {
+      "host": "95.110.141.122:8888",
+      "country": "IT",
+      "quality": 4
+    },
+    {
+      "host": "79.139.56.178:443",
+      "country": "HU",
+      "quality": 4
+    },
+    {
+      "host": "95.48.178.162:11443",
+      "country": "PL",
+      "quality": 4
+    }
+  ]
 }
