@@ -96,6 +96,11 @@
       "quality": 4
     },
     {
+      "host": "181.126.49.38:443",
+      "country": "PY",
+      "quality": 4
+    },
+    {
       "host": "165.231.141.138:9443",
       "country": "EE",
       "quality": 4
