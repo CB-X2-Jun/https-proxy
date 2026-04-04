@@ -6,6 +6,11 @@
       "quality": 4
     },
     {
+      "host": "120.92.212.16:7890",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "185.191.236.162:3128",
       "country": "CH",
       "quality": 4
@@ -16,13 +21,23 @@
       "quality": 4
     },
     {
-      "host": "34.96.238.40:8080",
-      "country": "HK",
+      "host": "61.76.95.217:40088",
+      "country": "KR",
       "quality": 4
     },
     {
       "host": "150.107.140.238:3128",
       "country": "ID",
+      "quality": 4
+    },
+    {
+      "host": "38.183.183.114:999",
+      "country": "PE",
+      "quality": 4
+    },
+    {
+      "host": "120.92.212.16:8890",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -51,8 +66,38 @@
       "quality": 4
     },
     {
+      "host": "190.60.56.226:999",
+      "country": "CO",
+      "quality": 4
+    },
+    {
+      "host": "177.234.217.82:999",
+      "country": "EC",
+      "quality": 4
+    },
+    {
       "host": "35.225.22.61:80",
       "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "158.160.215.167:8123",
+      "country": "RU",
+      "quality": 4
+    },
+    {
+      "host": "146.190.80.158:9090",
+      "country": "SG",
+      "quality": 4
+    },
+    {
+      "host": "128.199.254.13:9090",
+      "country": "SG",
+      "quality": 4
+    },
+    {
+      "host": "221.202.27.194:10811",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -66,23 +111,18 @@
       "quality": 4
     },
     {
-      "host": "202.5.33.33:1101",
-      "country": "BD",
-      "quality": 4
-    },
-    {
-      "host": "103.193.145.22:8082",
-      "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "51.79.207.21:8080",
-      "country": "SG",
-      "quality": 4
-    },
-    {
       "host": "18.192.100.176:9098",
       "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "185.241.5.57:3128",
+      "country": "IL",
+      "quality": 4
+    },
+    {
+      "host": "59.46.216.131:30001",
+      "country": "CN",
       "quality": 4
     },
     {
