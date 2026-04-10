@@ -1,6 +1,16 @@
 {
   "proxy_list": [
     {
+      "host": "120.92.212.16:7890",
+      "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "185.191.236.162:3128",
+      "country": "CH",
+      "quality": 4
+    },
+    {
       "host": "200.174.198.32:8888",
       "country": "BR",
       "quality": 4
@@ -16,13 +26,28 @@
       "quality": 4
     },
     {
+      "host": "179.185.89.251:8080",
+      "country": "BR",
+      "quality": 4
+    },
+    {
       "host": "150.107.140.238:3128",
       "country": "ID",
       "quality": 4
     },
     {
+      "host": "120.92.212.16:8890",
+      "country": "CN",
+      "quality": 4
+    },
+    {
       "host": "111.79.111.126:3128",
       "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "38.194.246.34:999",
+      "country": "MX",
       "quality": 4
     },
     {
@@ -36,16 +61,6 @@
       "quality": 4
     },
     {
-      "host": "190.60.56.226:999",
-      "country": "CO",
-      "quality": 4
-    },
-    {
-      "host": "209.126.10.139:3128",
-      "country": "US",
-      "quality": 4
-    },
-    {
       "host": "35.225.22.61:80",
       "country": "US",
       "quality": 4
@@ -56,13 +71,8 @@
       "quality": 4
     },
     {
-      "host": "221.202.27.194:10811",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "190.12.150.244:999",
-      "country": "EC",
+      "host": "146.190.80.158:9090",
+      "country": "SG",
       "quality": 4
     },
     {
@@ -101,8 +111,23 @@
       "quality": 4
     },
     {
+      "host": "173.212.246.157:3128",
+      "country": "FR",
+      "quality": 4
+    },
+    {
+      "host": "103.157.200.126:3128",
+      "country": "PK",
+      "quality": 4
+    },
+    {
       "host": "202.5.33.33:1101",
       "country": "BD",
+      "quality": 4
+    },
+    {
+      "host": "157.20.244.117:8821",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -111,8 +136,13 @@
       "quality": 4
     },
     {
-      "host": "193.181.35.104:8118",
-      "country": "SE",
+      "host": "91.238.105.64:2024",
+      "country": "UA",
+      "quality": 4
+    },
+    {
+      "host": "45.186.6.104:3128",
+      "country": "EC",
       "quality": 4
     },
     {
