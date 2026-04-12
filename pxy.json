@@ -1,11 +1,6 @@
 {
   "proxy_list": [
     {
-      "host": "200.174.198.32:8888",
-      "country": "BR",
-      "quality": 4
-    },
-    {
       "host": "111.79.111.126:3128",
       "country": "CN",
       "quality": 4
@@ -13,6 +8,11 @@
     {
       "host": "38.194.246.34:999",
       "country": "MX",
+      "quality": 4
+    },
+    {
+      "host": "186.65.104.52:2024",
+      "country": "BR",
       "quality": 4
     },
     {
@@ -26,38 +26,33 @@
       "quality": 4
     },
     {
+      "host": "209.126.10.139:3128",
+      "country": "US",
+      "quality": 4
+    },
+    {
       "host": "35.225.22.61:80",
       "country": "US",
       "quality": 4
     },
     {
-      "host": "124.6.168.26:8282",
-      "country": "PH",
+      "host": "158.160.215.167:8123",
+      "country": "RU",
+      "quality": 4
+    },
+    {
+      "host": "146.190.80.158:9090",
+      "country": "SG",
+      "quality": 4
+    },
+    {
+      "host": "221.202.27.194:10811",
+      "country": "CN",
       "quality": 4
     },
     {
       "host": "190.12.150.244:999",
       "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.99:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.111:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.113:3128",
-      "country": "ES",
-      "quality": 4
-    },
-    {
-      "host": "45.88.0.115:3128",
-      "country": "ES",
       "quality": 4
     },
     {
@@ -71,23 +66,18 @@
       "quality": 4
     },
     {
-      "host": "173.212.246.157:3128",
-      "country": "FR",
+      "host": "157.20.244.117:8821",
+      "country": "ID",
       "quality": 4
     },
     {
-      "host": "103.157.200.126:3128",
-      "country": "PK",
+      "host": "18.192.100.176:9098",
+      "country": "US",
       "quality": 4
     },
     {
       "host": "59.46.216.131:30001",
       "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "147.45.60.34:1082",
-      "country": "EE",
       "quality": 4
     },
     {
