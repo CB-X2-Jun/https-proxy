@@ -16,16 +16,6 @@
       "quality": 4
     },
     {
-      "host": "179.185.89.251:8080",
-      "country": "BR",
-      "quality": 4
-    },
-    {
-      "host": "20.27.14.220:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "103.155.130.134:8082",
       "country": "IN",
       "quality": 4
@@ -36,8 +26,8 @@
       "quality": 4
     },
     {
-      "host": "20.210.39.153:8561",
-      "country": "JP",
+      "host": "119.93.169.230:8087",
+      "country": "PH",
       "quality": 4
     },
     {
@@ -56,11 +46,6 @@
       "quality": 4
     },
     {
-      "host": "190.60.56.226:999",
-      "country": "CO",
-      "quality": 4
-    },
-    {
       "host": "177.234.217.82:999",
       "country": "EC",
       "quality": 4
@@ -71,8 +56,18 @@
       "quality": 4
     },
     {
+      "host": "158.160.215.167:8123",
+      "country": "RU",
+      "quality": 4
+    },
+    {
       "host": "190.12.150.244:999",
       "country": "EC",
+      "quality": 4
+    },
+    {
+      "host": "173.212.246.157:3128",
+      "country": "FR",
       "quality": 4
     },
     {
@@ -86,8 +81,8 @@
       "quality": 4
     },
     {
-      "host": "45.186.6.104:3128",
-      "country": "EC",
+      "host": "103.155.246.42:8080",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -106,23 +101,18 @@
       "quality": 4
     },
     {
-      "host": "164.163.42.27:10000",
+      "host": "164.163.42.19:10000",
       "country": "AR",
       "quality": 4
     },
     {
-      "host": "164.163.42.19:10000",
+      "host": "187.102.219.42:999",
       "country": "AR",
       "quality": 4
     },
     {
       "host": "65.108.159.129:999",
       "country": "FI",
-      "quality": 4
-    },
-    {
-      "host": "194.87.85.207:1080",
-      "country": "GB",
       "quality": 4
     },
     {
@@ -168,11 +158,6 @@
     {
       "host": "77.91.77.220:3128",
       "country": "DE",
-      "quality": 4
-    },
-    {
-      "host": "85.239.59.252:7890",
-      "country": "RU",
       "quality": 4
     },
     {
