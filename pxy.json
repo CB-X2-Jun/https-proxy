@@ -6,23 +6,13 @@
       "quality": 4
     },
     {
-      "host": "200.174.198.32:8888",
-      "country": "BR",
-      "quality": 4
-    },
-    {
       "host": "34.96.238.40:8080",
       "country": "HK",
       "quality": 4
     },
     {
-      "host": "210.223.44.230:3128",
-      "country": "KR",
-      "quality": 4
-    },
-    {
-      "host": "217.26.67.57:3180",
-      "country": "RS",
+      "host": "179.185.89.251:8080",
+      "country": "BR",
       "quality": 4
     },
     {
@@ -36,23 +26,23 @@
       "quality": 4
     },
     {
-      "host": "186.65.104.52:2024",
-      "country": "BR",
+      "host": "209.126.10.139:3128",
+      "country": "US",
       "quality": 4
     },
     {
-      "host": "220.197.44.36:3128",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "190.60.56.226:999",
-      "country": "CO",
+      "host": "35.225.22.61:80",
+      "country": "US",
       "quality": 4
     },
     {
       "host": "158.160.215.167:8123",
       "country": "RU",
+      "quality": 4
+    },
+    {
+      "host": "124.6.168.26:8282",
+      "country": "PH",
       "quality": 4
     },
     {
@@ -63,16 +53,6 @@
     {
       "host": "146.190.80.158:9090",
       "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "128.199.254.13:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "173.212.246.157:3128",
-      "country": "FR",
       "quality": 4
     },
     {
@@ -92,11 +72,6 @@
     },
     {
       "host": "160.250.4.13:1",
-      "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "160.250.5.22:1",
       "country": "VN",
       "quality": 4
     },
@@ -136,11 +111,6 @@
       "quality": 4
     },
     {
-      "host": "85.208.51.165:443",
-      "country": "FR",
-      "quality": 4
-    },
-    {
       "host": "13.60.163.108:3128",
       "country": "NL",
       "quality": 4
@@ -148,11 +118,6 @@
     {
       "host": "120.92.108.86:7890",
       "country": "HK",
-      "quality": 4
-    },
-    {
-      "host": "78.11.96.22:8888",
-      "country": "PL",
       "quality": 4
     },
     {
