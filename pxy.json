@@ -16,8 +16,8 @@
       "quality": 4
     },
     {
-      "host": "20.27.14.220:8561",
-      "country": "JP",
+      "host": "150.107.140.238:3128",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -26,13 +26,8 @@
       "quality": 4
     },
     {
-      "host": "38.194.246.34:999",
-      "country": "MX",
-      "quality": 4
-    },
-    {
-      "host": "220.197.44.36:3128",
-      "country": "CN",
+      "host": "103.247.22.151:7777",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -46,6 +41,11 @@
       "quality": 4
     },
     {
+      "host": "158.160.215.167:8123",
+      "country": "RU",
+      "quality": 4
+    },
+    {
       "host": "146.190.80.158:9090",
       "country": "SG",
       "quality": 4
@@ -53,6 +53,16 @@
     {
       "host": "128.199.254.13:9090",
       "country": "SG",
+      "quality": 4
+    },
+    {
+      "host": "190.12.150.244:999",
+      "country": "EC",
+      "quality": 4
+    },
+    {
+      "host": "173.212.246.157:3128",
+      "country": "FR",
       "quality": 4
     },
     {
@@ -76,18 +86,13 @@
       "quality": 4
     },
     {
-      "host": "59.46.216.131:30001",
-      "country": "CN",
+      "host": "147.45.60.34:1082",
+      "country": "EE",
       "quality": 4
     },
     {
       "host": "45.186.6.104:3128",
       "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "103.155.246.42:8080",
-      "country": "ID",
       "quality": 4
     },
     {
@@ -116,11 +121,6 @@
       "quality": 4
     },
     {
-      "host": "45.140.147.155:1082",
-      "country": "NL",
-      "quality": 4
-    },
-    {
       "host": "120.92.108.86:7890",
       "country": "HK",
       "quality": 4
@@ -128,6 +128,21 @@
     {
       "host": "223.84.151.86:30005",
       "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "218.108.131.186:17890",
+      "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "162.240.154.26:3128",
+      "country": "US",
+      "quality": 4
+    },
+    {
+      "host": "130.61.174.200:1080",
+      "country": "DE",
       "quality": 4
     },
     {
