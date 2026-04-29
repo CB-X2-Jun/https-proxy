@@ -16,8 +16,13 @@
       "quality": 4
     },
     {
-      "host": "179.185.89.251:8080",
-      "country": "BR",
+      "host": "20.27.14.220:8561",
+      "country": "JP",
+      "quality": 4
+    },
+    {
+      "host": "20.210.76.178:8561",
+      "country": "JP",
       "quality": 4
     },
     {
@@ -26,13 +31,18 @@
       "quality": 4
     },
     {
+      "host": "20.210.39.153:8561",
+      "country": "JP",
+      "quality": 4
+    },
+    {
       "host": "120.92.212.16:8890",
       "country": "CN",
       "quality": 4
     },
     {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
+      "host": "38.190.100.168:999",
+      "country": "PE",
       "quality": 4
     },
     {
@@ -41,8 +51,13 @@
       "quality": 4
     },
     {
-      "host": "128.199.254.13:9090",
-      "country": "SG",
+      "host": "20.78.26.206:8561",
+      "country": "JP",
+      "quality": 4
+    },
+    {
+      "host": "190.12.150.244:999",
+      "country": "EC",
       "quality": 4
     },
     {
@@ -51,8 +66,23 @@
       "quality": 4
     },
     {
+      "host": "20.78.118.91:8561",
+      "country": "JP",
+      "quality": 4
+    },
+    {
+      "host": "160.250.4.13:1",
+      "country": "VN",
+      "quality": 4
+    },
+    {
       "host": "45.186.6.104:3128",
       "country": "EC",
+      "quality": 4
+    },
+    {
+      "host": "16.78.119.130:443",
+      "country": "ID",
       "quality": 4
     },
     {
@@ -62,11 +92,6 @@
     },
     {
       "host": "164.163.42.19:10000",
-      "country": "AR",
-      "quality": 4
-    },
-    {
-      "host": "187.102.219.42:999",
       "country": "AR",
       "quality": 4
     },
@@ -101,8 +126,8 @@
       "quality": 4
     },
     {
-      "host": "162.240.154.26:3128",
-      "country": "US",
+      "host": "42.101.8.101:8888",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -128,11 +153,6 @@
     {
       "host": "159.203.61.169:3128",
       "country": "CA",
-      "quality": 4
-    },
-    {
-      "host": "103.3.246.71:3128",
-      "country": "VN",
       "quality": 4
     },
     {
