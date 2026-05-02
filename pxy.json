@@ -6,18 +6,8 @@
       "quality": 4
     },
     {
-      "host": "20.27.14.220:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "150.107.140.238:3128",
       "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "20.210.39.153:8561",
-      "country": "JP",
       "quality": 4
     },
     {
@@ -26,8 +16,8 @@
       "quality": 4
     },
     {
-      "host": "38.194.246.34:999",
-      "country": "MX",
+      "host": "38.190.100.168:999",
+      "country": "PE",
       "quality": 4
     },
     {
@@ -41,13 +31,8 @@
       "quality": 4
     },
     {
-      "host": "209.126.10.139:3128",
-      "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
+      "host": "190.60.56.226:999",
+      "country": "CO",
       "quality": 4
     },
     {
@@ -56,8 +41,8 @@
       "quality": 4
     },
     {
-      "host": "20.78.26.206:8561",
-      "country": "JP",
+      "host": "146.190.80.158:9090",
+      "country": "SG",
       "quality": 4
     },
     {
@@ -81,18 +66,8 @@
       "quality": 4
     },
     {
-      "host": "20.78.118.91:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "160.250.4.13:1",
       "country": "VN",
-      "quality": 4
-    },
-    {
-      "host": "45.186.6.104:3128",
-      "country": "EC",
       "quality": 4
     },
     {
@@ -116,22 +91,12 @@
       "quality": 4
     },
     {
-      "host": "13.60.163.108:3128",
-      "country": "NL",
-      "quality": 4
-    },
-    {
       "host": "120.92.108.86:7890",
       "country": "HK",
       "quality": 4
     },
     {
       "host": "223.84.151.86:30005",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "218.108.131.186:17890",
       "country": "CN",
       "quality": 4
     },
@@ -161,8 +126,18 @@
       "quality": 4
     },
     {
+      "host": "103.3.246.71:3128",
+      "country": "VN",
+      "quality": 4
+    },
+    {
       "host": "2.78.60.10:3129",
       "country": "KZ",
+      "quality": 4
+    },
+    {
+      "host": "212.58.132.5:8888",
+      "country": "GB",
       "quality": 4
     }
   ]
