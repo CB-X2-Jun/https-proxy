@@ -16,23 +16,23 @@
       "quality": 4
     },
     {
+      "host": "103.155.130.134:8082",
+      "country": "IN",
+      "quality": 4
+    },
+    {
       "host": "150.107.140.238:3128",
       "country": "ID",
       "quality": 4
     },
     {
+      "host": "119.93.169.230:8087",
+      "country": "PH",
+      "quality": 4
+    },
+    {
       "host": "120.92.212.16:8890",
       "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "103.247.22.151:7777",
-      "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "186.65.104.52:2024",
-      "country": "BR",
       "quality": 4
     },
     {
@@ -56,7 +56,12 @@
       "quality": 4
     },
     {
-      "host": "128.199.254.13:9090",
+      "host": "158.160.215.167:8123",
+      "country": "RU",
+      "quality": 4
+    },
+    {
+      "host": "146.190.80.158:9090",
       "country": "SG",
       "quality": 4
     },
@@ -76,8 +81,8 @@
       "quality": 4
     },
     {
-      "host": "103.193.145.22:8082",
-      "country": "ID",
+      "host": "181.111.164.210:999",
+      "country": "AR",
       "quality": 4
     },
     {
@@ -96,12 +101,12 @@
       "quality": 4
     },
     {
-      "host": "164.163.42.27:10000",
-      "country": "AR",
+      "host": "16.78.119.130:443",
+      "country": "ID",
       "quality": 4
     },
     {
-      "host": "164.163.42.19:10000",
+      "host": "164.163.42.27:10000",
       "country": "AR",
       "quality": 4
     },
@@ -116,8 +121,23 @@
       "quality": 4
     },
     {
+      "host": "45.140.147.155:1082",
+      "country": "NL",
+      "quality": 4
+    },
+    {
+      "host": "13.60.163.108:3128",
+      "country": "NL",
+      "quality": 4
+    },
+    {
       "host": "120.92.108.86:7890",
       "country": "HK",
+      "quality": 4
+    },
+    {
+      "host": "45.140.147.155:1081",
+      "country": "NL",
       "quality": 4
     },
     {
@@ -163,11 +183,6 @@
     {
       "host": "212.58.132.5:8888",
       "country": "GB",
-      "quality": 4
-    },
-    {
-      "host": "38.49.143.222:999",
-      "country": "MX",
       "quality": 4
     }
   ]
