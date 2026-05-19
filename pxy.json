@@ -11,13 +11,13 @@
       "quality": 4
     },
     {
-      "host": "210.223.44.230:3128",
-      "country": "KR",
+      "host": "179.185.89.251:8080",
+      "country": "BR",
       "quality": 4
     },
     {
-      "host": "150.107.140.238:3128",
-      "country": "ID",
+      "host": "103.155.130.134:8082",
+      "country": "IN",
       "quality": 4
     },
     {
@@ -41,13 +41,8 @@
       "quality": 4
     },
     {
-      "host": "209.126.10.139:3128",
-      "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "158.160.215.167:8123",
-      "country": "RU",
+      "host": "177.234.217.82:999",
+      "country": "EC",
       "quality": 4
     },
     {
@@ -57,11 +52,6 @@
     },
     {
       "host": "146.190.80.158:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "128.199.254.13:9090",
       "country": "SG",
       "quality": 4
     },
@@ -81,22 +71,22 @@
       "quality": 4
     },
     {
-      "host": "157.20.244.117:8821",
-      "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "59.46.216.131:30001",
-      "country": "CN",
-      "quality": 4
-    },
-    {
-      "host": "164.163.42.19:10000",
+      "host": "181.111.164.210:999",
       "country": "AR",
       "quality": 4
     },
     {
-      "host": "187.102.219.42:999",
+      "host": "147.45.60.34:1082",
+      "country": "EE",
+      "quality": 4
+    },
+    {
+      "host": "45.186.6.104:3128",
+      "country": "EC",
+      "quality": 4
+    },
+    {
+      "host": "164.163.42.27:10000",
       "country": "AR",
       "quality": 4
     },
@@ -141,13 +131,18 @@
       "quality": 4
     },
     {
-      "host": "212.58.132.5:8888",
-      "country": "GB",
+      "host": "152.32.132.190:7890",
+      "country": "HK",
       "quality": 4
     },
     {
-      "host": "152.32.132.190:7890",
-      "country": "HK",
+      "host": "83.222.7.205:3128",
+      "country": "UZ",
+      "quality": 4
+    },
+    {
+      "host": "45.225.204.97:999",
+      "country": "CL",
       "quality": 4
     },
     {
