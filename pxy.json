@@ -11,8 +11,8 @@
       "quality": 4
     },
     {
-      "host": "34.96.238.40:8080",
-      "country": "HK",
+      "host": "179.185.89.251:8080",
+      "country": "BR",
       "quality": 4
     },
     {
@@ -31,28 +31,13 @@
       "quality": 4
     },
     {
-      "host": "38.194.246.34:999",
-      "country": "MX",
-      "quality": 4
-    },
-    {
       "host": "103.247.22.151:7777",
       "country": "ID",
       "quality": 4
     },
     {
-      "host": "195.158.8.123:3128",
-      "country": "UZ",
-      "quality": 4
-    },
-    {
       "host": "152.42.170.187:9090",
       "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "65.108.203.37:28080",
-      "country": "SE",
       "quality": 4
     },
     {
@@ -101,11 +86,6 @@
       "quality": 4
     },
     {
-      "host": "13.60.163.108:3128",
-      "country": "NL",
-      "quality": 4
-    },
-    {
       "host": "134.209.29.120:8080",
       "country": "GB",
       "quality": 4
@@ -146,23 +126,23 @@
       "quality": 4
     },
     {
-      "host": "45.195.249.158:8080",
-      "country": "PH",
-      "quality": 4
-    },
-    {
       "host": "185.191.239.248:3128",
       "country": "CH",
       "quality": 4
     },
     {
-      "host": "179.189.120.147:3128",
-      "country": "BR",
+      "host": "175.111.96.154:3128",
+      "country": "ID",
       "quality": 4
     },
     {
-      "host": "202.47.87.5:9090",
-      "country": "VN",
+      "host": "158.255.212.55:9090",
+      "country": "AT",
+      "quality": 4
+    },
+    {
+      "host": "179.189.120.147:3128",
+      "country": "BR",
       "quality": 4
     },
     {
@@ -181,6 +161,11 @@
       "quality": 4
     },
     {
+      "host": "8.217.214.66:50000",
+      "country": "GB",
+      "quality": 4
+    },
+    {
       "host": "147.45.75.124:8080",
       "country": "SE",
       "quality": 4
@@ -188,11 +173,6 @@
     {
       "host": "185.106.183.85:8080",
       "country": "SE",
-      "quality": 4
-    },
-    {
-      "host": "151.248.19.97:8080",
-      "country": "NL",
       "quality": 4
     }
   ]
