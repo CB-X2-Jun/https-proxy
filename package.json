@@ -1,0 +1,21 @@
+{
+  "name": "https-proxy-api",
+  "version": "1.0.0",
+  "description": "HTTPS Proxy List API - A simple API to get proxy server lists",
+  "main": "api/proxies.js",
+  "scripts": {
+    "serve": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "proxy",
+    "api",
+    "netlify",
+    "https"
+  ],
+  "author": "Eternity-Sky",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
