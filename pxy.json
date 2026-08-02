@@ -1,26 +1,6 @@
 {
   "proxy_list": [
     {
-      "host": "34.96.238.40:8080",
-      "country": "HK",
-      "quality": 4
-    },
-    {
-      "host": "20.27.14.220:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
-      "host": "20.210.76.178:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
-      "host": "20.210.39.153:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "111.79.111.126:3128",
       "country": "CN",
       "quality": 4
@@ -41,11 +21,6 @@
       "quality": 4
     },
     {
-      "host": "102.164.252.150:8080",
-      "country": "GQ",
-      "quality": 4
-    },
-    {
       "host": "152.42.170.187:9090",
       "country": "SG",
       "quality": 4
@@ -56,28 +31,13 @@
       "quality": 4
     },
     {
-      "host": "20.78.26.206:8561",
-      "country": "JP",
-      "quality": 4
-    },
-    {
       "host": "128.199.254.13:9090",
       "country": "SG",
       "quality": 4
     },
     {
-      "host": "190.12.150.244:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
-      "host": "202.5.33.33:1101",
-      "country": "BD",
-      "quality": 4
-    },
-    {
-      "host": "20.78.118.91:8561",
-      "country": "JP",
+      "host": "43.155.138.148:3128",
+      "country": "KR",
       "quality": 4
     },
     {
@@ -86,8 +46,8 @@
       "quality": 4
     },
     {
-      "host": "103.155.246.42:8080",
-      "country": "ID",
+      "host": "113.176.92.71:3128",
+      "country": "VN",
       "quality": 4
     },
     {
@@ -96,8 +56,8 @@
       "quality": 4
     },
     {
-      "host": "36.147.78.166:443",
-      "country": "CN",
+      "host": "187.102.219.42:999",
+      "country": "AR",
       "quality": 4
     },
     {
@@ -136,18 +96,8 @@
       "quality": 4
     },
     {
-      "host": "45.225.204.97:999",
-      "country": "CL",
-      "quality": 4
-    },
-    {
       "host": "174.137.134.182:2999",
       "country": "US",
-      "quality": 4
-    },
-    {
-      "host": "41.189.171.186:8080",
-      "country": "GH",
       "quality": 4
     },
     {
@@ -156,23 +106,8 @@
       "quality": 4
     },
     {
-      "host": "102.36.168.185:8080",
-      "country": "CG",
-      "quality": 4
-    },
-    {
       "host": "37.211.38.70:8080",
       "country": "QA",
-      "quality": 4
-    },
-    {
-      "host": "45.59.122.132:80",
-      "country": "CH",
-      "quality": 4
-    },
-    {
-      "host": "111.230.27.213:3128",
-      "country": "CN",
       "quality": 4
     },
     {
@@ -196,7 +131,7 @@
       "quality": 4
     },
     {
-      "host": "94.198.218.123:3128",
+      "host": "185.200.188.234:10001",
       "country": "RU",
       "quality": 4
     },
@@ -206,28 +141,18 @@
       "quality": 4
     },
     {
-      "host": "68.183.60.51:3129",
-      "country": "US",
-      "quality": 4
-    },
-    {
       "host": "45.176.99.58:999",
       "country": "DO",
       "quality": 4
     },
     {
-      "host": "45.4.192.225:8080",
-      "country": "BR",
+      "host": "185.146.138.15:8080",
+      "country": "SY",
       "quality": 4
     },
     {
-      "host": "154.113.147.14:8080",
-      "country": "NG",
-      "quality": 4
-    },
-    {
-      "host": "41.78.168.118:8080",
-      "country": "TZ",
+      "host": "125.64.244.100:8880",
+      "country": "CN",
       "quality": 4
     },
     {
@@ -241,6 +166,11 @@
       "quality": 4
     },
     {
+      "host": "38.188.247.12:999",
+      "country": "DO",
+      "quality": 4
+    },
+    {
       "host": "181.188.216.3:8080",
       "country": "EC",
       "quality": 4
@@ -251,23 +181,13 @@
       "quality": 4
     },
     {
-      "host": "41.216.57.75:8080",
-      "country": "BJ",
-      "quality": 4
-    },
-    {
-      "host": "38.252.34.16:19000",
-      "country": "LY",
-      "quality": 4
-    },
-    {
       "host": "176.111.37.216:39811",
       "country": "DE",
       "quality": 4
     },
     {
-      "host": "47.81.56.193:8888",
-      "country": "TH",
+      "host": "104.154.186.48:80",
+      "country": "US",
       "quality": 4
     }
   ]
