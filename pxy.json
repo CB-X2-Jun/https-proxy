@@ -6,27 +6,12 @@
       "quality": 4
     },
     {
-      "host": "38.190.100.168:999",
-      "country": "PE",
-      "quality": 4
-    },
-    {
       "host": "195.158.8.123:3128",
       "country": "UZ",
       "quality": 4
     },
     {
-      "host": "177.234.217.82:999",
-      "country": "EC",
-      "quality": 4
-    },
-    {
       "host": "152.42.170.187:9090",
-      "country": "SG",
-      "quality": 4
-    },
-    {
-      "host": "146.190.80.158:9090",
       "country": "SG",
       "quality": 4
     },
@@ -46,11 +31,6 @@
       "quality": 4
     },
     {
-      "host": "202.5.33.33:1101",
-      "country": "BD",
-      "quality": 4
-    },
-    {
       "host": "45.186.6.104:3128",
       "country": "EC",
       "quality": 4
@@ -58,6 +38,11 @@
     {
       "host": "36.147.78.166:443",
       "country": "CN",
+      "quality": 4
+    },
+    {
+      "host": "187.102.219.42:999",
+      "country": "AR",
       "quality": 4
     },
     {
@@ -81,13 +66,13 @@
       "quality": 4
     },
     {
-      "host": "117.236.124.166:3128",
-      "country": "IN",
+      "host": "197.164.101.11:1981",
+      "country": "EG",
       "quality": 4
     },
     {
-      "host": "45.195.249.154:8080",
-      "country": "PH",
+      "host": "117.236.124.166:3128",
+      "country": "IN",
       "quality": 4
     },
     {
@@ -96,18 +81,8 @@
       "quality": 4
     },
     {
-      "host": "175.111.96.154:3128",
-      "country": "ID",
-      "quality": 4
-    },
-    {
-      "host": "45.232.152.2:8080",
-      "country": "AR",
-      "quality": 4
-    },
-    {
-      "host": "41.189.171.186:8080",
-      "country": "GH",
+      "host": "151.248.19.97:8080",
+      "country": "NL",
       "quality": 4
     },
     {
@@ -121,11 +96,6 @@
       "quality": 4
     },
     {
-      "host": "79.175.188.203:443",
-      "country": "IR",
-      "quality": 4
-    },
-    {
       "host": "34.43.46.91:80",
       "country": "US",
       "quality": 4
@@ -136,18 +106,8 @@
       "quality": 4
     },
     {
-      "host": "176.111.37.216:39811",
-      "country": "DE",
-      "quality": 4
-    },
-    {
       "host": "1.231.81.166:3128",
       "country": "KR",
-      "quality": 4
-    },
-    {
-      "host": "8.215.25.3:2080",
-      "country": "ID",
       "quality": 4
     },
     {
@@ -156,13 +116,13 @@
       "quality": 4
     },
     {
-      "host": "154.223.77.54:10001",
-      "country": "HK",
+      "host": "81.168.119.85:443",
+      "country": "GB",
       "quality": 4
     },
     {
-      "host": "81.168.119.85:443",
-      "country": "GB",
+      "host": "202.21.115.178:8080",
+      "country": "MN",
       "quality": 4
     },
     {
@@ -176,33 +136,18 @@
       "quality": 4
     },
     {
-      "host": "91.73.223.206:3128",
-      "country": "AE",
-      "quality": 4
-    },
-    {
       "host": "38.188.247.12:999",
       "country": "DO",
       "quality": 4
     },
     {
-      "host": "181.188.216.3:8080",
-      "country": "EC",
+      "host": "94.101.187.3:3128",
+      "country": "IR",
       "quality": 4
     },
     {
-      "host": "45.172.218.67:3028",
-      "country": "CO",
-      "quality": 4
-    },
-    {
-      "host": "203.81.75.202:8080",
-      "country": "MM",
-      "quality": 4
-    },
-    {
-      "host": "38.252.34.16:19000",
-      "country": "LY",
+      "host": "101.96.98.153:8080",
+      "country": "VN",
       "quality": 4
     },
     {
